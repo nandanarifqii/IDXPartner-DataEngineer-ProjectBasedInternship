@@ -1,0 +1,95 @@
+[ {
+  "baseItem" : {
+    "id" : "_FOq4AHCcEe6xhaqyYvspgw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_r9ePoHCSEe6xhaqyYvspgw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_zVhtMHCQEe6xhaqyYvspgw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_r9ePoHCSEe6xhaqyYvspgw - DimCustomer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_r9ePoHCSEe6xhaqyYvspgw - DimProduct",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_r9ePoHCSEe6xhaqyYvspgw - DimStatusOrder",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_r9ePoHCSEe6xhaqyYvspgw - FactSalesOrder",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_zVhtMHCQEe6xhaqyYvspgw - customer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_zVhtMHCQEe6xhaqyYvspgw - product",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_zVhtMHCQEe6xhaqyYvspgw - sales_order",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_zVhtMHCQEe6xhaqyYvspgw - status_order",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_dLR0YHCXEe6xhaqyYvspgw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_r9ePoHCSEe6xhaqyYvspgw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_zVhtMHCQEe6xhaqyYvspgw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_r9ePoHCSEe6xhaqyYvspgw - DimCustomer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_r9ePoHCSEe6xhaqyYvspgw - DimProduct",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_r9ePoHCSEe6xhaqyYvspgw - DimStatusOrder",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_r9ePoHCSEe6xhaqyYvspgw - FactSalesOrder",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_zVhtMHCQEe6xhaqyYvspgw - customer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_zVhtMHCQEe6xhaqyYvspgw - product",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_zVhtMHCQEe6xhaqyYvspgw - sales_order",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_zVhtMHCQEe6xhaqyYvspgw - status_order",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
