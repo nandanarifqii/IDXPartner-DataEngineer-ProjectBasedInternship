@@ -21,4 +21,4 @@ dari kolom FirstName dan LastName menjadi huruf kapital semua, lalu gabungkan ke
 5. Membuat Store Procedure untuk menampilkan summary sales order berdasarkan status pengiriman.
 
 ## Documentation
-<img align="center" width="700" src="ETL data tabel staging.png" />
+<img align="center" width="1000" src="ETL data tabel staging.png" />
