@@ -27,4 +27,6 @@ dari kolom FirstName dan LastName menjadi huruf kapital semua, lalu gabungkan ke
 
 ## Documentation
 <img align="center" width="1000" src="Konfigurasi Komponen tMap Job DimCustomer.png" />
+<img align="center" width="1000" src="Result tdBOutput.png" />
 <img align="center" width="1000" src="ETL data tabel staging.png" />
+<img align="center" width="1000" src="Result Store Procedure.png" />
