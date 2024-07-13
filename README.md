@@ -1,4 +1,4 @@
-### Project Based Internship as a Data Engineer - ID/X Partner x Rakamin Academy 
+# Project Based Internship as a Data Engineer - ID/X Partner x Rakamin Academy 
 
 ## Case Study
 
@@ -10,7 +10,7 @@ Data Warehouse terdiri dari satu tabel Fact dan beberapa tabel Dimension. Sebaga
 dari kolom FirstName dan LastName menjadi huruf kapital semua, lalu gabungkan kedua kolom tersebut menjadi satu kolom yang bernama CustomerName.
 4. Membuat Store Procedure (SP) untuk menampilkan summary sales order berdasarkan status pengiriman.
 
-<h2 align="center">Steps in Projects</h2>
+## Steps in Projects
 1. Melakukan Import/Restore Database Staging : Restore database menggunakan file backup Staging.bak
 2. Membuat sebuah Database bernama DWH_Project, serta membuat Tabel Fact dan Dimension dari tabel yang ada di database Staging 
 3. Membuat Job ETL di aplikasi talend untuk memindahkan data dari Staging ke Data Warehouse
