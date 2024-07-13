@@ -16,9 +16,14 @@ dari kolom FirstName dan LastName menjadi huruf kapital semua, lalu gabungkan ke
 
 ## Steps in Projects
 1. Melakukan Import/Restore Database Staging : Restore database menggunakan file backup Staging.bak
-3. Membuat sebuah Database bernama DWH_Project, serta membuat Tabel Fact dan Dimension dari tabel yang ada di database Staging 
-4. Membuat Job ETL di aplikasi talend untuk memindahkan data dari Staging ke Data Warehouse
-5. Membuat Store Procedure untuk menampilkan summary sales order berdasarkan status pengiriman.
+2. Membuat sebuah Database bernama DWH_Project, serta membuat Tabel Fact dan Dimension dari tabel yang ada di database Staging
+3. Membuat Job ETL di aplikasi talend untuk memindahkan data dari Staging ke Data Warehouse
+   - Membuat 4 Job untuk menarik data dari staging ke DWH_Project yaitu DimCustomer, DimProduct, DimStatusOrder, dan FactSalesOrder.
+   - Mengkonfigurasi Komponen tMap untuk job DimCustomer karena terdapat transformasi data yaitu menggabungkan kolom first_name dan last_name
+   - Mengkonfigurasi di Expression Builder untuk kolom CustomerName (membuat huruf kapital semua dan menggabungkannya)
+   - Untuk Job DimProduct, DimStatusOrder, dan FactSalesOrder hanya memindahkan data saja tanpa ada transformasi data atau penambahan kolom, maka kita bisa menggunakan komponen tDBInput dan tDBOutput saja (tanpa ada tMap).
+   - Edit schema pada tDBOutput, untuk mengubah nama DB Column menyesuaikan dengan nama Kolom yang ada di tabel target
+4. Membuat Store Procedure untuk menampilkan summary sales order berdasarkan status pengiriman.
 
 ## Documentation
 <img align="center" width="1000" src="ETL data tabel staging.png" />
