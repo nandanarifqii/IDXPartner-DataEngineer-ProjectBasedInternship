@@ -26,4 +26,5 @@ dari kolom FirstName dan LastName menjadi huruf kapital semua, lalu gabungkan ke
 4. Membuat Store Procedure untuk menampilkan summary sales order berdasarkan status pengiriman.
 
 ## Documentation
+<img align="center" width="1000" src="Konfigurasi Komponen tMap Job DimCustomer.png" />
 <img align="center" width="1000" src="ETL data tabel staging.png" />
