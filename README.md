@@ -1,9 +1,9 @@
 # Project Based Internship as a Data Engineer - ID/X Partner x Rakamin Academy  
 
 ## Prerequisite
-1. Memiliki  SQL Server dan SSMS (SQL Server Management Studio)
-2. Install Talend Open Studio
-3. File backup database (Staging.bak) (Disediakan oleh ID/X Partner x Rakamin Academy)
+1. Memiliki  SQL Server dan SSMS (SQL Server Management Studio).
+2. Install Talend Open Studio.
+3. File backup database (Staging.bak) (Disediakan oleh ID/X Partner x Rakamin Academy).
    
 ## Case Study
 Salah satu client dari ID/X Partners yang bergerak di bidang e-commerce memiliki kebutuhan untuk membuat sebuah Data Warehouse yang berasal dari beberapa tabel dari database sumber.
